@@ -1,7 +1,7 @@
 {
  "id": "v100-20261110",
- "state": "diffed",
- "at": "2026-11-10T03:16:04Z",
+ "state": "deployed",
+ "at": "2026-11-10T03:34:12Z",
  "project": "manmotemple",
  "note": "v100：地下重鋪置中（TEX.floor 畫滿全畫布，4×4 格約 0.8 米石面，offset 半格令中軸行磚心）；拆後牆最左端「神恩浩蕩」匾；左牆相片欄加「文武廟一覽」標題，第一格圖文不符（exterior1.jpg 係正門告示牌）改用 roof.jpg 綠瓦重簷，成欄升高令第三格唔再沉入地下。只做 diff，唔部署；部署要用戶喺 Telegram 講「推」。",
  "zip_files": 152,
@@ -27,6 +27,7 @@
   "incoming": "manmo-v100"
  },
  "warnings": [],
- "deployment_url": null,
- "message": "diff 完成，等你喺 Telegram 批准先部署"
+ "deployment_url": "https://20c31f3b.hi-we1co.pages.dev/manmotemple/",
+ "message": "已部署上線",
+ "http_code": "200"
 }
