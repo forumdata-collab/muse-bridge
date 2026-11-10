@@ -1,0 +1,1 @@
+{"id":"v97-20261110","type":"deploy","project":"manmotemple","zip_url":"https://muse.ai/files/1396343986885050/1723049282587528/nyxgkajh4qzkwr3kagl7z35n/manmotemple-v97.zip","note":"v97：鹿口麥穗柔和含住、全廟動畫細節（菊花／燭光／街燈／橫額）、金鹿全靜止、外語簽文與獨立站一致（i18n-3d.js 已與 live 175 行版同步）；只做 diff，唔部署"}
