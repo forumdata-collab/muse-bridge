@@ -1,0 +1,32 @@
+{
+ "id": "v96-20261110",
+ "state": "diffed",
+ "at": "2026-11-10T01:04:04Z",
+ "project": "manmotemple",
+ "note": "v96：鹿角歸位、嘴含麥穗、台座牌面、衣飾、香盤取香、香爐腳修正，另補齊 sw.js ASSETS i18n 六件",
+ "zip_files": 145,
+ "files": {
+  "added": [
+   "CHANGES-v95.md",
+   "CHANGES-v96.md",
+   "README-MUSE.md"
+  ],
+  "changed": [
+   "DEV-NOTES.md",
+   "js/i18n-3d.js"
+  ],
+  "removed": [],
+  "removed_real": [],
+  "removed_junk": []
+ },
+ "sw_cache": {
+  "current": "manmo-v96",
+  "incoming": "manmo-v96"
+ },
+ "warnings": [
+  "code 有改但 sw.js CACHE 冇 bump（仍然 manmo-v96）—— 回訪者會見舊版",
+  "佢改咗 js/i18n-3d.js：可能係舊快照，會覆蓋我哋新增嘅翻譯規則，merge 前要 diff"
+ ],
+ "deployment_url": null,
+ "message": "diff 完成，等你喺 Telegram 批准先部署"
+}
