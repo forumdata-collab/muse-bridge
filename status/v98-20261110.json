@@ -1,0 +1,34 @@
+{
+ "id": "v98-20261110",
+ "state": "diffed",
+ "at": "2026-11-10T02:24:04Z",
+ "project": "manmotemple",
+ "note": "v98：香盤由供桌右邊移去香案左邊（正對取香企位）；金鹿按實物相改進：做舊金箔（深銅底＋金箔貼片）、靈芝如意改單片扁圓蓋＋尾端＋座腳＋螺旋雕紋、口銜改粗扭紋麥穗柄垂到胸口、台座改石材＋回紋邊（保留「金鹿 • 祿」牌，加「請勿攀爬」牌）、拆頸圈鈴鐺＋「福」牌。只做 diff，唔部署；部署要用戶喺 Telegram 講「推」。",
+ "zip_files": 149,
+ "files": {
+  "added": [
+   "CHANGES-v98.md"
+  ],
+  "changed": [
+   "DEV-NOTES.md",
+   "README-MUSE.md",
+   "index.html",
+   "js/app.js",
+   "js/deer.js",
+   "js/lot-ritual.js",
+   "js/scene.js",
+   "js/world.js",
+   "sw.js"
+  ],
+  "removed": [],
+  "removed_real": [],
+  "removed_junk": []
+ },
+ "sw_cache": {
+  "current": "manmo-v97",
+  "incoming": "manmo-v98"
+ },
+ "warnings": [],
+ "deployment_url": null,
+ "message": "diff 完成，等你喺 Telegram 批准先部署"
+}
