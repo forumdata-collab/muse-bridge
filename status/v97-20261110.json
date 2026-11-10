@@ -1,7 +1,7 @@
 {
  "id": "v97-20261110",
- "state": "diffed",
- "at": "2026-11-10T01:43:25Z",
+ "state": "deployed",
+ "at": "2026-11-10T01:53:10Z",
  "project": "manmotemple",
  "note": "v97：鹿口麥穗柔和含住、全廟動畫細節（菊花／燭光／街燈／橫額）、金鹿全靜止、外語簽文與獨立站一致（i18n-3d.js 已與 live 175 行版同步）；只做 diff，唔部署",
  "zip_files": 147,
@@ -28,6 +28,7 @@
   "incoming": "manmo-v97"
  },
  "warnings": [],
- "deployment_url": null,
- "message": "diff 完成，等你喺 Telegram 批准先部署"
+ "deployment_url": "https://713a428d.hi-we1co.pages.dev/manmotemple/",
+ "message": "已部署上線",
+ "http_code": "200"
 }
