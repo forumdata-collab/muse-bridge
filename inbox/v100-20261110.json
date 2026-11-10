@@ -1,0 +1,1 @@
+{"id":"v100-20261110","type":"deploy","project":"manmotemple","zip_url":"https://muse.ai/files/1396343986885050/1119095084261786/hoe8970yhqbntidy21n88c9q/manmotemple-v100.zip","note":"v100：地下重鋪置中（TEX.floor 畫滿全畫布，4×4 格約 0.8 米石面，offset 半格令中軸行磚心）；拆後牆最左端「神恩浩蕩」匾；左牆相片欄加「文武廟一覽」標題，第一格圖文不符（exterior1.jpg 係正門告示牌）改用 roof.jpg 綠瓦重簷，成欄升高令第三格唔再沉入地下。只做 diff，唔部署；部署要用戶喺 Telegram 講「推」。"}
