@@ -1,0 +1,1 @@
+{"content": "唔可以直接睇到。\n\n我而家睇到嘅，只有呢個對話入面傳過嚟嘅訊息（經 bridge queue 送到我手上嘅檔案），同埋每次我叫 client 工具（例如 terminal、read_file）先至會返嚟嘅結果。我冇一條直接睇你 Muse project 檔案嘅通道——queue 入面嘅檔案係你發俾我嘅請求，唔係 VPS 嘅存取權。\n\n如果你想我睇某個 project，話我知個路徑，我就可以用呢個 session 提供嘅 read_file／terminal 去讀；或者直接將檔案內容貼出嚟。"}
